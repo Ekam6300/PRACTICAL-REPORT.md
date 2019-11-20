@@ -5,6 +5,7 @@
 ## SECTION - *CSE(A1)* 
 # DEPARTMENT OF COMPUTER SCIENCE ENGINEERING
 ## *GURU NANAK DEV ENGINEERING COLLEGE,LUDHIANA*
+![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOYGxoUmjkfjKYi4PqjUEc-BsknLsvVJesGpv54Tag2mFC6Pc_Q6ups3q&s=10)
 ## *PROGRAM No. 1:-PROGRAM TO PRINT WELCOME MESSAGE*
 ```C
 #include <stdio.h>
