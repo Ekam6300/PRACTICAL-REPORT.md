@@ -5,7 +5,6 @@
 ## SECTION - *CSE(A1)* 
 # DEPARTMENT OF COMPUTER SCIENCE ENGINEERING
 ## *GURU NANAK DEV ENGINEERING COLLEGE,LUDHIANA*
-![LOGO](https://blog.coachingkaro.org/wp-content/uploads/2019/07/logo.jpg)
 ## *PROGRAM No. 1:-PROGRAM TO PRINT WELCOME MESSAGE*
 ```C
 #include <stdio.h>
